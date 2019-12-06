@@ -11,7 +11,3 @@
 -   npm run build
 -   firebase init
 -   npm run deploy
-
-## View Live
-
-[https://keimeno.party](https://keimeno.party)
